@@ -11,7 +11,7 @@ Open PowerShell as Administrator
 Run Command: Install-Module DisplayConfig
 Close PowerShell
 Download DisplayConfig.hta and save it to the desktop or whereever you want
-Open DisplayConfig.hta with Microsoft (R) HTML Application Host (set this as the default app to open HTA files)
+Open DisplayChanger.hta with Microsoft (R) HTML Application Host (set this as the default app to open HTA files)
 ```
 
 # Other Tips 
