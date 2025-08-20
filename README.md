@@ -10,7 +10,7 @@ If there is any intrest, I'll make a veriable so you can set it to whatever you 
 Open PowerShell as Administrator 
 Run Command: Install-Module DisplayConfig
 Close PowerShell
-Download DisplayConfig.hta and save it to the desktop or whereever you want
+Download DisplayChanger.hta and save it to the desktop or where ever you want
 Open DisplayChanger.hta with Microsoft (R) HTML Application Host (set this as the default app to open HTA files)
 ```
 
