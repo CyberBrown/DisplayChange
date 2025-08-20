@@ -1,9 +1,9 @@
 # DisplayChange
-This is forked from MartinGC94/DisplayConfig with the original readme info after "DispalyConfig"
-DisplayChange app provides a simple way to switch between different display configurations 
-I use this to switch between a local ultrawide "display 1" at 5120x1440 and "display 2", which is a 4K HDMI Virtual Display Adapter at 2560x1600
-I am using these two resolutions because it matches my setup of ultrawide monitor and surface pro for streaming, but you can make changes to that with simple edits to the DisplayChange.HTA file
-If there is any intrest, I'll make a veriable so you can set it to whatever you want, and add additional configuration options to choose from, 
+This is forked from MartinGC94/DisplayConfig with the original readme info after "DispalyConfig".
+DisplayChange app provides a simple way to switch between different display configurations. 
+I use this to switch between a local ultrawide "display 1" at 5120x1440 and "display 2", which is a 4K HDMI Virtual Display Adapter at 2560x1600.
+I am using these two resolutions because it matches my setup of ultrawide monitor and surface pro for streaming, but you can make changes to that with simple edits to the DisplayChange.HTA file.
+If there is any intrest, I'll make a veriable so you can set it to whatever you want, and add additional configuration options to choose from. 
 
 # How To Install 
 Open PowerShell as Administrator 
