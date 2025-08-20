@@ -6,11 +6,13 @@ I am using these two resolutions because it matches my setup of ultrawide monito
 If there is any intrest, I'll make a veriable so you can set it to whatever you want, and add additional configuration options to choose from. 
 
 # How To Install 
-Open PowerShell as Administrator; 
-Run Command: Install-Module DisplayConfig;
-Close PowerShell;
-Download DisplayConfig.hta and save it to the desktop or whereever you want; 
-Open DisplayConfig.hta with Microsoft (R) HTML Application Host (set this as the default app to open HTA files);
+```
+Open PowerShell as Administrator 
+Run Command: Install-Module DisplayConfig
+Close PowerShell
+Download DisplayConfig.hta and save it to the desktop or whereever you want
+Open DisplayConfig.hta with Microsoft (R) HTML Application Host (set this as the default app to open HTA files)
+```
 
 # Other Tips 
 I created this solution for quickly fixing resolution problems when streaming games to my surface. Without this setup, the resolution on the end device would never look right. 
